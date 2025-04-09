@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![certa1014's GitHub stats](https://github-readme-stats.vercel.app/api?username=certa1014&theme=dark&show_icons=true)
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 자기소개 </h2>  
